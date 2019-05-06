@@ -1,0 +1,12 @@
+__pycache__
+kinetics_i3d_pytorch
+*.ipynb
+*.lprof
+*.csv
+*.txt
+*.pickle
+*.tar
+*.gz
+*.jpg
+*.png
+*.ipynb_checkpoints
